@@ -1,2 +1,2 @@
 # PracticasCursoPythonPrincipiante
-Practicas del curso de python nivel principiante
+Ejercicios para practicar el curso de python nivel principiante
