@@ -1,0 +1,39 @@
+funciones basicas
+		
+	\n = nueva linea - linea abajo '\n' + '\n'
+
+	input = pide respuesta
+	
+	print = imprime strings
+	return = returna VALORES
+
+tipos de numeros
+
+	int = enteros sin decimales 
+
+	float = con decimales 
+
+	strings = cadrena de palabras
+
+	bool / booleans = comparacion >=< and or not
+
+list.append(stering/variable) 1argumento
+list.extend(list)
+list.remove(elementode lista)
+list.reverse() da la vuelta a la lista
+list.insert(pos, string) insertar en un lugar en concreto
+list.index(elemento)
+list.short()ordena los elementos abc 123
+
+open (archivo, modo)
+
+modo
+	't' = Leer
+	'w' = Escribir
+	'a' = Añadir
+	'r+'= Leer y escribir
+
+.pyw no muestra la consola
+
+caja1.bind registra eventos 
+//coger y soltar foto tecla todo

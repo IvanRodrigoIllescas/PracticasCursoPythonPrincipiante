@@ -1,0 +1,2 @@
+paises = ['españa', 'francia', 'alemania']
+
